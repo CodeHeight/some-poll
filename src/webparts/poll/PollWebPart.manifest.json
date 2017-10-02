@@ -1,0 +1,22 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "0eb1cf54-a1f0-4232-98ca-0af8f87d1af3",
+  "alias": "PollWebPart",
+  "componentType": "WebPart",
+  "version": "1.1.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "0eb1cf54-a1f0-4232-98ca-0af8f87d1af3",
+    "group": { "default": "Auburn SPFx" },
+    "title": { "default": "JS Poll" },
+    "description": { "default": "A javascript poll for Auburn SharePoint " },
+    "officeFabricIconFontName": "Emoji2",
+    "properties": {
+      "listName": "",
+      "pollTitle": "",
+      "pollDescription": ""
+    }
+  }]
+}
