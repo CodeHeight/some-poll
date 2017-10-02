@@ -1,6 +1,6 @@
 {
   "workingDir": "./temp/deploy/",
-  "account": "<!-- STORAGE ACCOUNT NAME -->",
-  "container": "react-web-part-demos",
-  "accessKey": "<!-- ACCESS KEY -->"
+  "account": "codeheight",
+  "container": "js-poll-webpart",
+  "accessKey": "Gyb+J/aoPamC0Eu0+3C4QHdOhKVXB7jw4vPF+rPxwmQrZH7nhgXZ16xK2Ebrp6l8s0EWCmVk8QeDOKCEt6OScQ=="
 }
